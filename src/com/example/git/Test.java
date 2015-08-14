@@ -3,9 +3,8 @@ package com.example.git;
 public class Test {
 
 	/**
-	 *  好好学习  
+	 *  好好学习   
 	 */
-	
 	public static void main(String[] args) {
 		
 	}
