@@ -1,0 +1,10 @@
+package com.example.git;
+
+public class Master {
+
+	
+	//  Master Fenzi  ·ÖÖ§ ÐÞ¸Ä
+	public static void main(String[] args) {
+		
+	}
+}
